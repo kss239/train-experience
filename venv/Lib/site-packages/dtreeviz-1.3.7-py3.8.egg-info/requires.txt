@@ -1,0 +1,16 @@
+graphviz>=0.9
+pandas
+numpy
+scikit-learn
+matplotlib
+colour
+pytest
+
+[lightgbm]
+lightgbm
+
+[pyspark]
+pyspark
+
+[xgboost]
+xgboost
